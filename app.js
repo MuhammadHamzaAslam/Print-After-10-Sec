@@ -6,4 +6,4 @@ setInterval(()=>{
         if (i <= arr.length) {
             document.write("<h1>",arr[j++],"</h1>");
         }
-},1000)
+},5000)
